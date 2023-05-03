@@ -22,6 +22,14 @@ body {
    font-size: 26px;
 }
 
+.nav {
+   display: flex;
+   flex-wrap: wrap;
+   padding-left: 0;
+   margin-bottom: 0;
+   list-style: none;
+ }
+
 .nav ul {
    display: flex;
    list-style-type: none;
